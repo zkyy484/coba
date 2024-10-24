@@ -3,8 +3,8 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
-import 'package:project_ujian/screens/item.dart';
-import 'package:project_ujian/theme/warna.dart';
+import 'package:coba_uts/screens/item.dart';
+import 'package:coba_uts/theme/warna.dart';
 
 class ProfilPage extends StatelessWidget {
   final Atribut atribut;

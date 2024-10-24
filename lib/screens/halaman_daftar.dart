@@ -2,6 +2,7 @@ import 'package:coba_uts/theme/warna.dart';
 import 'package:coba_uts/widget/scaffold.dart';
 import 'package:cool_alert/cool_alert.dart';
 import 'package:flutter/material.dart';
+import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 // ignore: must_be_immutable
 class DaftarPage extends StatelessWidget {
